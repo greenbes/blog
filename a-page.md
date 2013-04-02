@@ -1,3 +1,7 @@
+---
+title: This will be used as the title-tag of the page head
+---
+
 # Question
 
 So, does it just automatically publish anything that I stick in a markdown file
